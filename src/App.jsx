@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import MovementsList from './MovementsList';
 import AddMovementModal from './AddMovementModal';
 
